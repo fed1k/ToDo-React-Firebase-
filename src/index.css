@@ -172,8 +172,8 @@ p {
   }
 
   .checkbox-container {
-    display: grid;
-    grid-template-columns: 30% 30%;
+    display: flex;
+    gap: 1rem;
   }
 }
 
